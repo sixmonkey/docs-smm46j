@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-a39hkx.alltripbooking.com/sitemap.xml
